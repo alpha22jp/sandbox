@@ -2,3 +2,6 @@ This is file2.txt
 Hello, world
 Add line3
 Add line4
+適当に追加
+さらに適当に追加
+
