@@ -1,3 +1,4 @@
 This is file2.txt
-Add line1
-Add line2
+Hello, world
+Add line3
+Add line4
