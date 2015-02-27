@@ -1,2 +1,4 @@
 This is file2.txt
 Hello, world
+Add line3
+Add line4
