@@ -1,3 +1,5 @@
 Add new line in master.
 This is file1.txt
 Modify in develop branch.
+何か追加
+さらに何か追加
