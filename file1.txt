@@ -7,3 +7,4 @@ test
 test2
 test3
 変更テスト for GitHub認証
+Linuxから変更テスト for GitHub認証
